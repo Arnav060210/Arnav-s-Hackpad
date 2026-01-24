@@ -8,6 +8,8 @@ Programable macropad with 6 switches for custom inputs and control.
 <img width="1068" height="602" alt="PCB model" src="https://github.com/user-attachments/assets/fbfa0de4-e141-4f29-b2a3-ca9763c7aeee" />
 <img width="774" height="385" alt="Screenshot 2026-01-24 145607" src="https://github.com/user-attachments/assets/39de0249-e9e0-48de-930e-414178673098" />
 <img width="1102" height="386" alt="Screenshot 2026-01-24 145628" src="https://github.com/user-attachments/assets/038757c3-9eda-4f87-824e-763c30131ae6" />
+<img width="770" height="479" alt="Screenshot 2026-01-24 151212" src="https://github.com/user-attachments/assets/a074e9da-9e3b-4409-a5bb-b7a439d48e5f" />
 BOM:
 - 1x XIAO RP2040
 - 6x Cherry MX switches
+- 1x Custom PCB
